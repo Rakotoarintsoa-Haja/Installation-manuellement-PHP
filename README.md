@@ -10,7 +10,7 @@ $tar -xfv libsml2.tar.gz
 $cd libsml2
 $ ./configure 
 $ make 
-$ make install 
+$ sudo make install 
 
 
 https://www.sqlite3.org/downloads.html
@@ -23,6 +23,6 @@ Maintenant décompresser le et desarchiver : $tar -xfv php-8.3.6.tar.gz
 $cd php-8.3.6
 1)$ ./configure
 2)$ make
-3)$ make install
+3)$ sudo make install
 
 
