@@ -16,7 +16,7 @@ $ make install
 https://www.sqlite3.org/downloads.html
 $ ./confige --prefix=/usr/local/sqlite3
 $ make
-$ make install
+$ sudo make install
 
 Maintenant le télécharger le code source dans le site : https://www.php.net/downloads.php 
 Maintenant décompresser le et desarchiver : $tar -xfv php-8.3.6.tar.gz 
